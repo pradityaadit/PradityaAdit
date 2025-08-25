@@ -1,16 +1,23 @@
-## Hi there 👋
+# Halo semua! 👋
 
-<!--
-**pradityaadit/PradityaAdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Praditya Adit**.
 
-Here are some ideas to get you started:
+- 🌱 Saat ini sedang belajar: Web Development & Machine Learning
+- 💻 Bahasa pemrograman favorit: JavaScript, Python, PHP
+- 🚀 Project yang sedang dikerjakan: [Nama Project Kamu]
+- 📫 Kontak saya: praditya@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Repo Populer
+- [Project 1](https://github.com/praditya/project1)
+- [Project 2](https://github.com/praditya/project2)
+- [Project 3](https://github.com/praditya/project3)
+
+---
+
+## 🏆 GitHub Stats
+![Praditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=praditya&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praditya&layout=compact&theme=radical)
+
