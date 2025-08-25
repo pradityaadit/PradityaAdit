@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pradityaadit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Halo+semua!+👋;Saya+Praditya+Oktanza+D.W;Web+Developer+%26+ML+Enthusiast;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Halo+semua!+👋;Saya+Praditya+Oktanza+D.W;Web+Developer+%26+ML+Enthusiast;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
   </a>
 </p>
 
