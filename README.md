@@ -4,7 +4,7 @@ Perkenalkan nama saya **Praditya Oktanza D.W**.
 
 - 🌱 Saat ini sedang belajar: Web Development & Machine Learning
 - 💻 Bahasa pemrograman favorit: JavaScript, Python, PHP
-- 📫 Kontak saya: praditya85@gmail.com
+- 📫 Kontak saya: pradityaadit85@gmail.com
 
 ## 🏆 GitHub Stats
 
