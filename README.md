@@ -4,8 +4,7 @@ Perkenalkan nama saya **Praditya Adit**.
 
 - 🌱 Saat ini sedang belajar: Web Development & Machine Learning
 - 💻 Bahasa pemrograman favorit: JavaScript, Python, PHP
-- 🚀 Project yang sedang dikerjakan: [Nama Project Kamu]
-- 📫 Kontak saya: praditya@example.com
+- 📫 Kontak saya: praditya85@gmail.com
 
 ---
 
@@ -17,7 +16,7 @@ Perkenalkan nama saya **Praditya Adit**.
 ---
 
 ## 🏆 GitHub Stats
-![Praditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=praditya&show_icons=true&theme=radical)
+![Praditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradityaadit&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praditya&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradityaadit&layout=compact&theme=radical)
 
