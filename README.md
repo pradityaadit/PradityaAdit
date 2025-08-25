@@ -33,14 +33,3 @@
 </p>
 
 ---
-
-## 📬 Contact Me  
-
-<p align="center">
-  <a href="https://www.instagram.com/prdty.aditt/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/d8FzvzJx" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
