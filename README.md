@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center">👨‍💻 Praditya Oktanza D.W</h3>
+  <h3 align="center">👨‍💻 About Me !</h3>
 </p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Everyone!;I'm+Praditya+Oktanza+D.W;I'm+Still+Learning+Java+Script;Nice+To+Meet+You+^^!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> </p>
