@@ -3,9 +3,7 @@
   <h3 align="center">👨‍💻 Praditya Oktanza D.W</h3>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Halo+semua!+👋;Saya+Praditya+Oktanza+D.W;Web+Developer+%26+ML+Enthusiast;Selalu+Belajar+Hal+Baru;Mari+berkoneksi!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=FF6B6B" alt="Typing SVG">
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> </p>
 
 <p align="center">
   <a href="https://www.instagram.com/prdty.aditt/" alt="Instagram" title="Follow me on Instagram">
